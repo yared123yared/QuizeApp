@@ -1,0 +1,2 @@
+# QuizeApp
+Flutter Mobile Application
